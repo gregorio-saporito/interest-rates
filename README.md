@@ -1,5 +1,3 @@
-# 8a65fae3
-
 # Interest Rates Package
 
 The package has a Shiny app to explore the term structure of LIBOR interbank rates.
@@ -9,7 +7,7 @@ Data is stored as an .rda object.
 
 ```R
 # First install the R package "devtools" if not installed
-devtools::install_github('unimi-dse/8a65fae3')
+devtools::install_github('gregorio-saporito/interest-rates')
 ```
 
 ## Usage
