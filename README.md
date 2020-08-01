@@ -1,7 +1,9 @@
-# Interest Rates Package
+# Interest Rates Package :chart_with_upwards_trend:
 
-The package has a Shiny app to explore the term structure of LIBOR interbank rates.
+The *interestrates* package has a Shiny app to explore the __term structure of LIBOR interbank rates__.
 Data is stored as an .rda object.
+
+Click on the link to view the app: http://gregorio-saporito.shinyapps.io/interest-rates
 
 ## Installation
 
